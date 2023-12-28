@@ -6,6 +6,7 @@ Software engineering tools and practices homework assignments
 
 ### HW2: Make
 Make, Build Tools, and Shell Programming
+*(zipfile included)*
 
 ### HW3: IDE
 Chrome Developer Tools
@@ -24,12 +25,15 @@ GitHub Classroom Assignment [here](https://classroom.github.com/a/RBQhWZmh)
 
 ### HW8: Static Analysis Tools
 GitHub Classroom Assignment [here](https://classroom.github.com/a/TuTbObq6)
+*(zipfile included)*
 
 ### HW9: Unit Testing
 GitHub Classroom Assignment [here](https://classroom.github.com/a/AHGqY_O5)
 
 ### HW10: Valgrind
 GitHub Classroom Assignment [here](https://classroom.github.com/a/PzCLoSxk)
+*(zipfile included)*
 
-### HW11: UML (optional, no points)
+### HW11: UML (optional)
 Assignment Sheet [here](https://github.com/OU-CS3560/hw-uml-template/)
+*(no points)*
